@@ -1,0 +1,4 @@
+GET https://api.ebird.org/v2/data/obs/US-MO/recent
+Content-Type: application/json
+x-ebirdapitoken: key
+
